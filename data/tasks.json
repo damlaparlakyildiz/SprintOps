@@ -1,0 +1,11 @@
+[
+  {
+    "id": 2,
+    "title": "Login hatasını düzelt",
+    "description": "Kullanıcı girişindeki hata giderilecek",
+    "assignee": "Ahmet",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-11-10T16:30:21.287Z"
+  }
+]

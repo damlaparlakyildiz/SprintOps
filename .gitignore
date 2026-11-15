@@ -1,0 +1,10 @@
+# Bağımlılıklar
+node_modules/
+
+# Ortam değişkenleri ve loglar
+*.log
+.env
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
